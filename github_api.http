@@ -1,0 +1,10 @@
+GET https://api.github.com/users/octocat
+
+### (Optional separator between requests)
+
+GET https://api.github.com/users/octocat/repos
+
+### (Optional separator between requests)
+
+GET https://api.github.com/users/octocat/Hello-World
+Accept: application/vnd.github.v3+json
